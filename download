@@ -1,0 +1,16 @@
+# Environment files
+frontend/.env
+payment-server/.env
+
+# Node modules
+frontend/node_modules/
+payment-server/node_modules/
+
+# Generated receipts
+payment-server/receipts/
+
+# Build output
+frontend/dist/
+
+# Logs
+*.log
